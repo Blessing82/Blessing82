@@ -1,2 +1,2 @@
 # Gotye-Mafutala-Kituka
-Config files for my GitHub profile.
+Data Scientist, Data Analyst, and Python Developer
